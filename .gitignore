@@ -1,0 +1,11 @@
+*.fits
+*.txt
+*.slurm*
+*.xml
+*.xcm
+*.err
+*.out
+execute*py
+v3_*
+v5_*
+*~
